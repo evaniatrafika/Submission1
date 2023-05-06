@@ -1,9 +1,2 @@
-runtime: python27
-handlers:
-- url: /
-static_files: index.html
-upload: index.html
+runtime: php74
 
-- url: /(.*)
-static_files: /\1
-upload: /(.*)

@@ -1,6 +1,4 @@
 runtime: python27
-apl_version: 1
-threadsafe: true
 handlares:
 -url: /
 static_files: index.html

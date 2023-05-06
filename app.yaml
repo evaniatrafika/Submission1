@@ -1,5 +1,5 @@
 runtime: python27
-handlares:
+handlers:
 -url: /
 static_files: index.html
 upload: index.html
